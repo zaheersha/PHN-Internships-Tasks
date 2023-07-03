@@ -1,0 +1,111 @@
+Company Name,Model Name,Fuel Type,Body Style,Car Length
+Honda,Civic,Gas,Sedan,4645mm
+Toyota,Corolla,Hybrid,Sedan,4620mm
+Ford,F-150,Gas,Pickup Truck,5885mm
+Tesla,Model S,EV,Sedan,4978mm
+BMW,3 Series,Gas,Sedan,4700mm
+Chevrolet,Tahoe,Gas,Full-Size SUV,5334mm
+Nissan,Rogue,Gas,Compact SUV,4656mm
+Audi,A4,Gas,Sedan,4726mm
+Hyundai,Sonata,Gas,Sedan,4905mm
+Jeep,Wrangler,Gas,SUV,4332mm
+Kia,Soul,EV,Hatchback,4195mm
+Mercedes-Benz,GLC-Class,Hybrid,SUV,4658mm
+Mazda,CX-5,Gas,Compact SUV,4550mm
+GMC,Sierra,Diesel,Pickup Truck,5885mm
+Volvo,XC90,Hybrid,SUV,4950mm
+Subaru,Forester,Gas,Compact SUV,4625mm
+Porsche,911,Gas,Coupe,4499mm
+Dodge,Challenger,Gas,Coupe,5020mm
+Jaguar,F-Pace,Hybrid,SUV,4740mm
+Toyota,Sienna,Hybrid,Minivan,5166mm
+Kia,Telluride,Gas,SUV,4986mm
+Audi,Q5,Hybrid,SUV,4663mm
+Lexus,RX,Hybrid,SUV,4890mm
+Chevrolet,Camaro,Gas,Coupe,4784mm
+GMC,Acadia,Gas,SUV,4917mm
+BMW,X5,Hybrid,SUV,4922mm
+Ford,Explorer,Hybrid,SUV,5015mm
+Volkswagen,Golf,Gas,Hatchback,4276mm
+Subaru,Impreza,Gas,Sedan,4625mm
+Audi,Q7,Hybrid,SUV,5063mm
+Honda,Accord,Hybrid,Sedan,4882mm
+Toyota,Tundra,Gas,Pickup Truck,5815mm
+Mazda,MX-5 Miata,Gas,Convertible,3915mm
+Hyundai,Tucson,Gas,Compact SUV,4480mm
+Jeep,Grand Cherokee,Gas,SUV,4822mm
+BMW,5 Series,Hybrid,Sedan,4963mm
+Lexus,IS,Hybrid,Sedan,4700mm
+Nissan,Altima,Hybrid,Sedan,4879mm
+Ford,Mustang,Gas,Coupe,4788mm
+Porsche,Cayenne,Hybrid,SUV,4918mm
+Kia,Stinger,Gas,Sedan,4831mm
+Volvo,XC40,Hybrid,SUV,4425mm
+Chevrolet,Bolt,EV,Hatchback,4166mm
+Subaru,Crosstrek,Hybrid,Compact SUV,4465mm
+Audi,A5,Gas,Coupe,4690mm
+Tesla,Model X,EV,SUV,5036mm
+Audi,A5,Gas,Coupe,4690mm
+Toyota,RAV4,Hybrid,Compact SUV,4600mm
+Jeep,Compass,Gas,SUV,4398mm
+Volvo,S60,Hybrid,Sedan,4761mm
+Honda,CR-V,Hybrid,Compact SUV,4626mm
+BMW,X7,Hybrid,SUV,5151mm
+Hyundai,Kona,EV,Compact SUV,4165mm
+Lexus,LC,Hybrid,Coupe,4770mm
+Ford,Escape,Hybrid,Compact SUV,4510mm
+Porsche,Panamera,Hybrid,Sedan,5049mm
+Nissan,Leaf,EV,Hatchback,4490mm
+Audi,A7,Hybrid,Sedan,4969mm
+Kia,Niro,Hybrid,Compact SUV,4355mm
+Subaru,Outback,Gas,Wagon,4820mm
+Mercedes-Benz,S-Class,Hybrid,Sedan,5116mm
+Toyota,Highlander,Hybrid,SUV,4985mm
+Volkswagen,Atlas,Gas,SUV,5037mm
+Jaguar,XF,Hybrid,Sedan,4954mm
+Chevrolet,Equinox,Gas,Compact SUV,4652mm
+BMW,i3,EV,Hatchback,4011mm
+Hyundai,Palisade,Gas,SUV,4980mm
+GMC,Terrain,Gas,Compact SUV,4652mm
+Audi,Q3,Gas,SUV,4484mm
+Jeep,Renegade,Gas,SUV,4266mm
+Tesla,Model 3,EV,Sedan,4694mm
+Mazda,Mazda3,Gas,Sedan,4660mm
+Volvo,V60,Hybrid,Wagon,4761mm
+Lexus,GX,Gas,SUV,4900mm
+Honda,Civic,Gas,Sedan,4648mm
+Audi,Q5,Gas,SUV,4663mm
+Toyota,Sienna,Hybrid,Minivan,5115mm
+Hyundai,Venue,Gas,SUV,4041mm
+BMW,X6,Hybrid,SUV,4949mm
+Kia,Rio,Gas,Hatchback,4045mm
+Ford,Explorer,Hybrid,SUV,5019mm
+Lexus,UX,Hybrid,SUV,4495mm
+Mercedes-Benz,GLA,Gas,SUV,4410mm
+Porsche,Cayenne,Hybrid,SUV,4918mm
+Chevrolet,Camaro,Gas,Coupe,4784mm
+Subaru,Ascent,Gas,SUV,4998mm
+BMW,7 Series,Hybrid,Sedan,5238mm
+Mitsubishi,Outlander,Hybrid,SUV,4695mm
+Volvo,XC60,Hybrid,SUV,4688mm
+Hyundai,Santa Fe,Hybrid,SUV,4770mm
+Audi,RS7,Hybrid,Sedan,5020mm
+Toyota,Camry,Hybrid,Sedan,4885mm
+Mazda,CX-5,Gas,SUV,4550mm
+Jaguar,E-PACE,Gas,SUV,4395mm
+Nissan,Rogue,Hybrid,SUV,4630mm
+Ford,F-150,Hybrid,Pickup Truck,5890mm
+Tesla,Model S,EV,Sedan,4970mm
+Subaru,Legacy,Gas,Sedan,4879mm
+BMW,X2,Gas,SUV,4360mm
+Volkswagen,Tiguan,Gas,SUV,4486mm
+Kia,Sportage,Gas,SUV,4480mm
+Audi,A6,Hybrid,Sedan,4954mm
+Hyundai,Sonata,Hybrid,Sedan,4900mm
+Toyota,Prius,Hybrid,Hatchback,4570mm
+Chevrolet,Bolt,EV,Hatchback,4166mm
+Volvo,XC40,Hybrid,SUV,4425mm
+Jeep,Gladiator,Gas,Pickup Truck,5531mm
+Mercedes-Benz,GLE,Hybrid,SUV,4924mm
+Lexus,LS,Hybrid,Sedan,5235mm
+Porsche,Taycan,EV,Sedan,4963mm
